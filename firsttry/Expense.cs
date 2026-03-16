@@ -10,5 +10,7 @@ namespace firsttry
     {
         public decimal Amount { get; set; }
         public string Category { get; set; }    
+
+        public string Department { get; set; }
     }
 }
